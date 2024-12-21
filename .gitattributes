@@ -24,3 +24,10 @@ Gruppo_22/Library/Artifacts/bf/bf81bd2a7e6f7fa8a474cfcbad973158 filter=lfs diff=
 Gruppo_22/Library/Artifacts/d0/d007b4e2986dfe9f8f3626127fa56653 filter=lfs diff=lfs merge=lfs -text
 Gruppo_22/Library/PlayerDataCache/Win64/Data/sharedassets1.assets filter=lfs diff=lfs merge=lfs -text
 Gruppo_22/Library/PlayerDataCache/Win64/Data/sharedassets1.assets.resS filter=lfs diff=lfs merge=lfs -text
+Gruppo_22/Library/Artifacts/6b/6bac6f2f6c6453b45e527f8079607a71 filter=lfs diff=lfs merge=lfs -text
+Gruppo_22/Assets/Reperti[[:space:]]Museo/Nettuno/source/NEPTUNE.ogj filter=lfs diff=lfs merge=lfs -text
+Gruppo_22/Assets/Import/Hintze_Hall/textures/NHMHintzeHall02_Model_9_u2_v1_diffuse_1.png filter=lfs diff=lfs merge=lfs -text
+Gruppo_22/Assets/Import/Hintze_Hall/textures/NHMHintzeHall02_Model_9_u1_v1_diffuse_0.png filter=lfs diff=lfs merge=lfs -text
+Gruppo_22/Assets/Antica[[:space:]]Roma/Giulio[[:space:]]Cesare/source/CESAR.obj filter=lfs diff=lfs merge=lfs -text
+Gruppo_22/Assets/Antica[[:space:]]Roma/Jupiter_und_Ganymed/textures/Jupiter_Ganymed_O.001_baseColor_0.png filter=lfs diff=lfs merge=lfs -text
+Gruppo_22/Assets/Dinosauri/Jurassic_Park_Gate/textures/Gate_normal_2.png filter=lfs diff=lfs merge=lfs -text
